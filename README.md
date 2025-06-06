@@ -5,4 +5,5 @@ Features:
 - ES Module support ("type": "module" in package.json)
 - Basic Express.js server setup
 - File-based route example
-- Ready-to-extend structure for middleware, routes, and utilities
+- Ready-to-extend structure for routes, controller, utilitiess and handlers
+- Includes basic payload configuration, time configuration, database configuration and SMTP configuration
