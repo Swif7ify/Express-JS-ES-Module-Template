@@ -7,3 +7,10 @@ Features:
 - File-based route example
 - Ready-to-extend structure for routes, controller, utilitiess and handlers
 - Includes basic payload configuration, time configuration, database configuration and SMTP configuration
+
+How to run:
+ ```bash
+npm install
+```
+``` bash
+npm run start
